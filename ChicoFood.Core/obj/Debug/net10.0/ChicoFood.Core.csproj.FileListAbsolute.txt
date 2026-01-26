@@ -1,0 +1,11 @@
+D:\Programming\ASP\ASPTUT\ChicoFood.Core\bin\Debug\net10.0\ChicoFood.Core.deps.json
+D:\Programming\ASP\ASPTUT\ChicoFood.Core\bin\Debug\net10.0\ChicoFood.Core.dll
+D:\Programming\ASP\ASPTUT\ChicoFood.Core\bin\Debug\net10.0\ChicoFood.Core.pdb
+D:\Programming\ASP\ASPTUT\ChicoFood.Core\obj\Debug\net10.0\ChicoFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ASP\ASPTUT\ChicoFood.Core\obj\Debug\net10.0\ChicoFood.Core.AssemblyInfoInputs.cache
+D:\Programming\ASP\ASPTUT\ChicoFood.Core\obj\Debug\net10.0\ChicoFood.Core.AssemblyInfo.cs
+D:\Programming\ASP\ASPTUT\ChicoFood.Core\obj\Debug\net10.0\ChicoFood.Core.csproj.CoreCompileInputs.cache
+D:\Programming\ASP\ASPTUT\ChicoFood.Core\obj\Debug\net10.0\ChicoFood.Core.dll
+D:\Programming\ASP\ASPTUT\ChicoFood.Core\obj\Debug\net10.0\refint\ChicoFood.Core.dll
+D:\Programming\ASP\ASPTUT\ChicoFood.Core\obj\Debug\net10.0\ChicoFood.Core.pdb
+D:\Programming\ASP\ASPTUT\ChicoFood.Core\obj\Debug\net10.0\ref\ChicoFood.Core.dll
