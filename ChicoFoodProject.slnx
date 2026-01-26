@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ChicoFood.Core/ChicoFood.Core.csproj" />
+  <Project Path="ChicoFood.Data/ChicoFood.Data.csproj" />
+  <Project Path="WebApplication1/ChicoFood.csproj" />
+</Solution>
