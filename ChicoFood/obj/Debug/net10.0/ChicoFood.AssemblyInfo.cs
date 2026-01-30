@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChicoFood")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+878acad1d0f89e90578f6d74c2b2bb1a1f18d57e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f01efbcc0ca4b1a76bc383fdc0316c848ec15a6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChicoFood")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChicoFood")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

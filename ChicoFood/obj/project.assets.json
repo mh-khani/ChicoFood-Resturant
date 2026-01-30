@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\ASP\\ChicoFood\\WebApplication1\\ChicoFood.csproj",
+      "projectUniqueName": "D:\\Programming\\ASP\\ChicoFood\\ChicoFood\\ChicoFood.csproj",
       "projectName": "ChicoFood",
-      "projectPath": "D:\\Programming\\ASP\\ChicoFood\\WebApplication1\\ChicoFood.csproj",
+      "projectPath": "D:\\Programming\\ASP\\ChicoFood\\ChicoFood\\ChicoFood.csproj",
       "packagesPath": "C:\\Users\\Hossien\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\ASP\\ChicoFood\\WebApplication1\\obj\\",
+      "outputPath": "D:\\Programming\\ASP\\ChicoFood\\ChicoFood\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
