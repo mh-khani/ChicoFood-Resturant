@@ -1,11 +1,16 @@
 using ChicoFood.Data;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 
-builder.Services.AddSingleton<IRestaurantData, InMemoryRestaurantData>();
+builder.Services.AddDbContextPool<ChicoFoodDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ChicoFoodDb"));
+});
+builder.Services.AddScoped<IRestaurantData, SqlRestaurantData>();
 
 var app = builder.Build();
 

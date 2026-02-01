@@ -29,3 +29,5 @@ D:\Programming\ASP\ChicoFood\ChicoFood.Data\obj\Debug\net10.0\refint\ChicoFood.D
 D:\Programming\ASP\ChicoFood\ChicoFood.Data\obj\Debug\net10.0\ChicoFood.Data.pdb
 D:\Programming\ASP\ChicoFood\ChicoFood.Data\obj\Debug\net10.0\ref\ChicoFood.Data.dll
 D:\Programming\ASP\ChicoFood\ChicoFood.Data\obj\Debug\net10.0\ChicoFood.Data.sourcelink.json
+D:\Programming\ASP\ChicoFood\ChicoFood.Data\bin\Debug\net10.0\ChicoFood.Data.runtimeconfig.json
+D:\Programming\ASP\ChicoFood\ChicoFood.Data\obj\Debug\net10.0\ChicoFood.Data.genruntimeconfig.cache

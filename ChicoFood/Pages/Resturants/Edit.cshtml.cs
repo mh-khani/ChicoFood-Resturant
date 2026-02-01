@@ -51,7 +51,7 @@ namespace ChicoFood.Pages.Resturants
             }
             else
             {
-                restaurantData.Create(Restaurant);
+                restaurantData.Add(Restaurant);
             }
             restaurantData.Commit();
             TempData["Message"] = "Restaurant saved!";
