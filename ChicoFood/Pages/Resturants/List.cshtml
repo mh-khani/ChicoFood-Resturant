@@ -33,13 +33,19 @@
             <td>
                 <a class="btn btn-lg"
                    asp-page="./Detail" asp-route-restaturantId="@restaurant.Id">
-                    <i class="fa-solid fa-pen"></i>
+                    <i class="fa-solid fa-eye"></i>
                 </a>
             </td>
             <td>
                 <a class="btn btn-lg"
                    asp-page="./Edit" asp-route-restaturantId="@restaurant.Id">
-                    <i class="fa-solid fa-eye"></i>
+                    <i class="fa-solid fa-pen"></i>
+                </a>
+            </td>
+            <td>
+                <a class="btn btn-lg"
+                   asp-page="./Delete" asp-route-restaturantId="@restaurant.Id">
+                    <i class="fa-solid fa-trash"></i>
                 </a>
             </td>
         </tr>
