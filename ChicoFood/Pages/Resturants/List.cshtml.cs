@@ -3,7 +3,7 @@ using ChicoFood.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace WebApplication1.Pages.Resturants
+namespace ChicoFood.Pages.Resturants
 {
     public class ListModel : PageModel
     {

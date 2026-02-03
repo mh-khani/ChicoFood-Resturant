@@ -17,7 +17,7 @@ namespace ChicoFood.Pages.Resturants
         public IActionResult OnGet(int restaturantId)
         {
             Restaurant = restaurantData.GetById(restaturantId);
-            if(restaurantData == null) 
+            if(Restaurant == null) 
                 return RedirectToPage("./NotFound");
             return Page();
         }
@@ -30,7 +30,7 @@ namespace ChicoFood.Pages.Resturants
                 return RedirectToPage("./NotFound");
 
             TempData["Message"] = $"{restaurant.Name} deleted!";
-            return Page();
+            return RedirectToPage("Detail", new { restaturantId = restaurant.Id });
         }
     }
 }
