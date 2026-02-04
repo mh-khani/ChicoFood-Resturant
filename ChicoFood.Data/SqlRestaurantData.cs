@@ -47,5 +47,10 @@ namespace ChicoFood.Data
             entity.State = EntityState.Modified;
             return restaurant;
         }
+
+        public int GetCountOfRestaurants()
+        {
+            return db.Restaurants.Count();
+        }
     }
 }
