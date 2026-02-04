@@ -5,6 +5,10 @@
 
 }
 
+@if (Model.Message != null)
+{
+    <div class="alert alert-info">@Model.Message</div>
+}
 <h1>Resturants</h1>
 
 <form method="get">

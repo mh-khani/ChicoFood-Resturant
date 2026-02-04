@@ -2,6 +2,7 @@ using ChicoFood.Core;
 using ChicoFood.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.IdentityModel.Tokens;
 
 namespace ChicoFood.Pages.Resturants
 {
@@ -11,8 +12,9 @@ namespace ChicoFood.Pages.Resturants
         private readonly IRestaurantData restaurantData;
 
         public IEnumerable<Restaurant> Resturants { get; set; }
+        [TempData]
         public string Message { get; set; }
-        [BindProperty(SupportsGet =true)]
+        [BindProperty(SupportsGet = true)]
         public string Search { get; set; }
 
         public ListModel(IConfiguration config, IRestaurantData restaurantData)
@@ -22,7 +24,6 @@ namespace ChicoFood.Pages.Resturants
         }
         public void OnGet(string MyVal)
         {
-            Message = config["MyValue"];
             Resturants = restaurantData.GetAllByName(Search);
         }
     }
