@@ -551,3 +551,6 @@ D:\Programming\ASP\ChicoFood\ChicoFood\bin\Debug\net10.0\ru\Microsoft.CodeAnalys
 D:\Programming\ASP\ChicoFood\ChicoFood\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\Programming\ASP\ChicoFood\ChicoFood\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\Programming\ASP\ChicoFood\ChicoFood\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming\ASP\ChicoFood\ChicoFood\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Programming\ASP\ChicoFood\ChicoFood\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Programming\ASP\ChicoFood\ChicoFood\obj\Debug\net10.0\ChicoFood.MvcApplicationPartsAssemblyInfo.cs
