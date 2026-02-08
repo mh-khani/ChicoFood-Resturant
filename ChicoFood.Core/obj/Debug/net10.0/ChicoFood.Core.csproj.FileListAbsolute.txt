@@ -16,8 +16,8 @@ D:\Programming\ASP\ChicoFood\ChicoFood.Core\obj\Debug\net10.0\ChicoFood.Core.Gen
 D:\Programming\ASP\ChicoFood\ChicoFood.Core\obj\Debug\net10.0\ChicoFood.Core.AssemblyInfoInputs.cache
 D:\Programming\ASP\ChicoFood\ChicoFood.Core\obj\Debug\net10.0\ChicoFood.Core.AssemblyInfo.cs
 D:\Programming\ASP\ChicoFood\ChicoFood.Core\obj\Debug\net10.0\ChicoFood.Core.csproj.CoreCompileInputs.cache
+D:\Programming\ASP\ChicoFood\ChicoFood.Core\obj\Debug\net10.0\ChicoFood.Core.sourcelink.json
 D:\Programming\ASP\ChicoFood\ChicoFood.Core\obj\Debug\net10.0\ChicoFood.Core.dll
 D:\Programming\ASP\ChicoFood\ChicoFood.Core\obj\Debug\net10.0\refint\ChicoFood.Core.dll
 D:\Programming\ASP\ChicoFood\ChicoFood.Core\obj\Debug\net10.0\ChicoFood.Core.pdb
 D:\Programming\ASP\ChicoFood\ChicoFood.Core\obj\Debug\net10.0\ref\ChicoFood.Core.dll
-D:\Programming\ASP\ChicoFood\ChicoFood.Core\obj\Debug\net10.0\ChicoFood.Core.sourcelink.json
